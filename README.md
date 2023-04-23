@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there 👋
+
+* I'm a robotics enthusiast with a BEng in Mechanical Engineering from Lancaster University and an MSc in Robotics from Cranfield University in the UK. With my previous work experiences at XPeng Motor and Autel Robotics, I've gained practical knowledge in the field of robotics.
+
+* My current research interests are focused on motion planning, robot reinforcement learning, NLP, and SLAM. I'm excited to explore the latest advancements in these fields and apply them to real-world robotics applications.
+
+* In my free time, I enjoy tinkering with DIY robotics projects and attending robotics competitions. I'm always eager to learn and collaborate with others in the robotics community, so please don't hesitate to reach out to me for any inquiries or opportunities. Let's build some awesome robots together! 🤖"
 
 <!--
 **WangTiaoTiao/wangtiaotiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
